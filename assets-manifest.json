@@ -1,0 +1,683 @@
+{
+  "source_files": [
+    "Record (online-voice-recorder.com) (4).mp3",
+    "space.mp3"
+  ],
+  "split_seconds": 8.6,
+  "counts": {
+    "normal_clicks": 16,
+    "normal_releases": 16,
+    "space_clicks": 15,
+    "space_releases": 15,
+    "fast_clicks": 24,
+    "fast_releases": 23
+  },
+  "clips": {
+    "normal_clicks": [
+      {
+        "file": "01.wav",
+        "source_time": 0.5602,
+        "length_ms": 140,
+        "peak": 0.63
+      },
+      {
+        "file": "02.wav",
+        "source_time": 1.0239,
+        "length_ms": 140,
+        "peak": 0.7191
+      },
+      {
+        "file": "03.wav",
+        "source_time": 1.5291,
+        "length_ms": 140,
+        "peak": 0.6682
+      },
+      {
+        "file": "04.wav",
+        "source_time": 2.0236,
+        "length_ms": 140,
+        "peak": 0.7573
+      },
+      {
+        "file": "05.wav",
+        "source_time": 2.5355,
+        "length_ms": 140,
+        "peak": 0.7064
+      },
+      {
+        "file": "06.wav",
+        "source_time": 3.049,
+        "length_ms": 140,
+        "peak": 0.6555
+      },
+      {
+        "file": "07.wav",
+        "source_time": 3.5566,
+        "length_ms": 140,
+        "peak": 0.7445
+      },
+      {
+        "file": "08.wav",
+        "source_time": 4.0699,
+        "length_ms": 140,
+        "peak": 0.6936
+      },
+      {
+        "file": "09.wav",
+        "source_time": 4.5998,
+        "length_ms": 140,
+        "peak": 0.6427
+      },
+      {
+        "file": "10.wav",
+        "source_time": 5.148,
+        "length_ms": 140,
+        "peak": 0.7318
+      },
+      {
+        "file": "11.wav",
+        "source_time": 5.6619,
+        "length_ms": 140,
+        "peak": 0.6809
+      },
+      {
+        "file": "12.wav",
+        "source_time": 6.1792,
+        "length_ms": 140,
+        "peak": 0.63
+      },
+      {
+        "file": "13.wav",
+        "source_time": 6.7045,
+        "length_ms": 140,
+        "peak": 0.7191
+      },
+      {
+        "file": "14.wav",
+        "source_time": 7.2593,
+        "length_ms": 140,
+        "peak": 0.6682
+      },
+      {
+        "file": "15.wav",
+        "source_time": 7.8061,
+        "length_ms": 140,
+        "peak": 0.7573
+      },
+      {
+        "file": "16.wav",
+        "source_time": 8.3319,
+        "length_ms": 140,
+        "peak": 0.7064
+      }
+    ],
+    "normal_releases": [
+      {
+        "file": "01.wav",
+        "source_time": 0.767,
+        "length_ms": 120,
+        "peak": 0.27
+      },
+      {
+        "file": "02.wav",
+        "source_time": 1.2547,
+        "length_ms": 120,
+        "peak": 0.3082
+      },
+      {
+        "file": "03.wav",
+        "source_time": 1.7514,
+        "length_ms": 120,
+        "peak": 0.2864
+      },
+      {
+        "file": "04.wav",
+        "source_time": 2.2578,
+        "length_ms": 120,
+        "peak": 0.3245
+      },
+      {
+        "file": "05.wav",
+        "source_time": 2.801,
+        "length_ms": 120,
+        "peak": 0.3027
+      },
+      {
+        "file": "06.wav",
+        "source_time": 3.2969,
+        "length_ms": 120,
+        "peak": 0.2809
+      },
+      {
+        "file": "07.wav",
+        "source_time": 3.8029,
+        "length_ms": 120,
+        "peak": 0.3191
+      },
+      {
+        "file": "08.wav",
+        "source_time": 4.3252,
+        "length_ms": 120,
+        "peak": 0.2973
+      },
+      {
+        "file": "09.wav",
+        "source_time": 4.8897,
+        "length_ms": 120,
+        "peak": 0.2755
+      },
+      {
+        "file": "10.wav",
+        "source_time": 5.3658,
+        "length_ms": 120,
+        "peak": 0.3136
+      },
+      {
+        "file": "11.wav",
+        "source_time": 5.8592,
+        "length_ms": 120,
+        "peak": 0.2918
+      },
+      {
+        "file": "12.wav",
+        "source_time": 6.4642,
+        "length_ms": 120,
+        "peak": 0.27
+      },
+      {
+        "file": "13.wav",
+        "source_time": 6.9759,
+        "length_ms": 120,
+        "peak": 0.3082
+      },
+      {
+        "file": "14.wav",
+        "source_time": 7.5182,
+        "length_ms": 120,
+        "peak": 0.2864
+      },
+      {
+        "file": "15.wav",
+        "source_time": 8.0346,
+        "length_ms": 120,
+        "peak": 0.3245
+      },
+      {
+        "file": "16.wav",
+        "source_time": 8.6036,
+        "length_ms": 120,
+        "peak": 0.3027
+      }
+    ],
+    "space_clicks": [
+      {
+        "file": "01.wav",
+        "source_time": 0.676,
+        "length_ms": 150,
+        "peak": 0.585
+      },
+      {
+        "file": "02.wav",
+        "source_time": 1.2825,
+        "length_ms": 150,
+        "peak": 0.6677
+      },
+      {
+        "file": "03.wav",
+        "source_time": 1.877,
+        "length_ms": 150,
+        "peak": 0.6205
+      },
+      {
+        "file": "04.wav",
+        "source_time": 2.4755,
+        "length_ms": 150,
+        "peak": 0.7032
+      },
+      {
+        "file": "05.wav",
+        "source_time": 3.0694,
+        "length_ms": 150,
+        "peak": 0.6559
+      },
+      {
+        "file": "06.wav",
+        "source_time": 3.6541,
+        "length_ms": 150,
+        "peak": 0.6086
+      },
+      {
+        "file": "07.wav",
+        "source_time": 4.266,
+        "length_ms": 150,
+        "peak": 0.6914
+      },
+      {
+        "file": "08.wav",
+        "source_time": 4.8649,
+        "length_ms": 150,
+        "peak": 0.6441
+      },
+      {
+        "file": "09.wav",
+        "source_time": 5.4645,
+        "length_ms": 150,
+        "peak": 0.5968
+      },
+      {
+        "file": "10.wav",
+        "source_time": 6.0741,
+        "length_ms": 150,
+        "peak": 0.6795
+      },
+      {
+        "file": "11.wav",
+        "source_time": 6.698,
+        "length_ms": 150,
+        "peak": 0.6323
+      },
+      {
+        "file": "12.wav",
+        "source_time": 7.3068,
+        "length_ms": 150,
+        "peak": 0.585
+      },
+      {
+        "file": "13.wav",
+        "source_time": 7.9396,
+        "length_ms": 150,
+        "peak": 0.6677
+      },
+      {
+        "file": "14.wav",
+        "source_time": 8.5997,
+        "length_ms": 150,
+        "peak": 0.6205
+      },
+      {
+        "file": "15.wav",
+        "source_time": 9.2441,
+        "length_ms": 150,
+        "peak": 0.7032
+      }
+    ],
+    "space_releases": [
+      {
+        "file": "01.wav",
+        "source_time": 0.9704,
+        "length_ms": 130,
+        "peak": 0.243
+      },
+      {
+        "file": "02.wav",
+        "source_time": 1.5476,
+        "length_ms": 130,
+        "peak": 0.2774
+      },
+      {
+        "file": "03.wav",
+        "source_time": 2.1493,
+        "length_ms": 130,
+        "peak": 0.2577
+      },
+      {
+        "file": "04.wav",
+        "source_time": 2.7466,
+        "length_ms": 130,
+        "peak": 0.2921
+      },
+      {
+        "file": "05.wav",
+        "source_time": 3.3289,
+        "length_ms": 130,
+        "peak": 0.2725
+      },
+      {
+        "file": "06.wav",
+        "source_time": 3.9459,
+        "length_ms": 130,
+        "peak": 0.2528
+      },
+      {
+        "file": "07.wav",
+        "source_time": 4.5608,
+        "length_ms": 130,
+        "peak": 0.2872
+      },
+      {
+        "file": "08.wav",
+        "source_time": 5.1408,
+        "length_ms": 130,
+        "peak": 0.2675
+      },
+      {
+        "file": "09.wav",
+        "source_time": 5.7382,
+        "length_ms": 130,
+        "peak": 0.2479
+      },
+      {
+        "file": "10.wav",
+        "source_time": 6.3595,
+        "length_ms": 130,
+        "peak": 0.2823
+      },
+      {
+        "file": "11.wav",
+        "source_time": 6.9815,
+        "length_ms": 130,
+        "peak": 0.2626
+      },
+      {
+        "file": "12.wav",
+        "source_time": 7.6383,
+        "length_ms": 130,
+        "peak": 0.243
+      },
+      {
+        "file": "13.wav",
+        "source_time": 8.2472,
+        "length_ms": 130,
+        "peak": 0.2774
+      },
+      {
+        "file": "14.wav",
+        "source_time": 8.8974,
+        "length_ms": 130,
+        "peak": 0.2577
+      },
+      {
+        "file": "15.wav",
+        "source_time": 9.5454,
+        "length_ms": 130,
+        "peak": 0.2921
+      }
+    ],
+    "fast_clicks": [
+      {
+        "file": "01.wav",
+        "source_time": 9.1747,
+        "length_ms": 48,
+        "peak": 0.531
+      },
+      {
+        "file": "02.wav",
+        "source_time": 9.3439,
+        "length_ms": 48,
+        "peak": 0.6061
+      },
+      {
+        "file": "03.wav",
+        "source_time": 9.4899,
+        "length_ms": 48,
+        "peak": 0.5632
+      },
+      {
+        "file": "04.wav",
+        "source_time": 9.6325,
+        "length_ms": 48,
+        "peak": 0.6383
+      },
+      {
+        "file": "05.wav",
+        "source_time": 9.7785,
+        "length_ms": 48,
+        "peak": 0.5954
+      },
+      {
+        "file": "06.wav",
+        "source_time": 9.924,
+        "length_ms": 48,
+        "peak": 0.5525
+      },
+      {
+        "file": "07.wav",
+        "source_time": 10.0729,
+        "length_ms": 48,
+        "peak": 0.6275
+      },
+      {
+        "file": "08.wav",
+        "source_time": 10.2165,
+        "length_ms": 48,
+        "peak": 0.5846
+      },
+      {
+        "file": "09.wav",
+        "source_time": 10.3749,
+        "length_ms": 48,
+        "peak": 0.5417
+      },
+      {
+        "file": "10.wav",
+        "source_time": 10.516,
+        "length_ms": 48,
+        "peak": 0.6168
+      },
+      {
+        "file": "11.wav",
+        "source_time": 10.6609,
+        "length_ms": 48,
+        "peak": 0.5739
+      },
+      {
+        "file": "12.wav",
+        "source_time": 11.1042,
+        "length_ms": 48,
+        "peak": 0.531
+      },
+      {
+        "file": "13.wav",
+        "source_time": 11.261,
+        "length_ms": 48,
+        "peak": 0.6061
+      },
+      {
+        "file": "14.wav",
+        "source_time": 11.4091,
+        "length_ms": 48,
+        "peak": 0.5632
+      },
+      {
+        "file": "15.wav",
+        "source_time": 11.5532,
+        "length_ms": 48,
+        "peak": 0.6383
+      },
+      {
+        "file": "16.wav",
+        "source_time": 11.6984,
+        "length_ms": 48,
+        "peak": 0.5954
+      },
+      {
+        "file": "17.wav",
+        "source_time": 11.8405,
+        "length_ms": 48,
+        "peak": 0.5525
+      },
+      {
+        "file": "18.wav",
+        "source_time": 11.9928,
+        "length_ms": 48,
+        "peak": 0.6275
+      },
+      {
+        "file": "19.wav",
+        "source_time": 12.1468,
+        "length_ms": 48,
+        "peak": 0.5846
+      },
+      {
+        "file": "20.wav",
+        "source_time": 12.3035,
+        "length_ms": 48,
+        "peak": 0.5417
+      },
+      {
+        "file": "21.wav",
+        "source_time": 12.4518,
+        "length_ms": 48,
+        "peak": 0.6168
+      },
+      {
+        "file": "22.wav",
+        "source_time": 12.6,
+        "length_ms": 48,
+        "peak": 0.5739
+      },
+      {
+        "file": "23.wav",
+        "source_time": 12.7516,
+        "length_ms": 48,
+        "peak": 0.531
+      },
+      {
+        "file": "24.wav",
+        "source_time": 12.8984,
+        "length_ms": 48,
+        "peak": 0.6061
+      }
+    ],
+    "fast_releases": [
+      {
+        "file": "01.wav",
+        "source_time": 9.2634,
+        "length_ms": 42,
+        "peak": 0.243
+      },
+      {
+        "file": "02.wav",
+        "source_time": 9.4179,
+        "length_ms": 42,
+        "peak": 0.2774
+      },
+      {
+        "file": "03.wav",
+        "source_time": 9.5678,
+        "length_ms": 42,
+        "peak": 0.2577
+      },
+      {
+        "file": "04.wav",
+        "source_time": 9.707,
+        "length_ms": 42,
+        "peak": 0.2921
+      },
+      {
+        "file": "05.wav",
+        "source_time": 9.8555,
+        "length_ms": 42,
+        "peak": 0.2725
+      },
+      {
+        "file": "06.wav",
+        "source_time": 10.0059,
+        "length_ms": 42,
+        "peak": 0.2528
+      },
+      {
+        "file": "07.wav",
+        "source_time": 10.1563,
+        "length_ms": 42,
+        "peak": 0.2872
+      },
+      {
+        "file": "08.wav",
+        "source_time": 10.3039,
+        "length_ms": 42,
+        "peak": 0.2675
+      },
+      {
+        "file": "09.wav",
+        "source_time": 10.445,
+        "length_ms": 42,
+        "peak": 0.2479
+      },
+      {
+        "file": "10.wav",
+        "source_time": 10.594,
+        "length_ms": 42,
+        "peak": 0.2823
+      },
+      {
+        "file": "11.wav",
+        "source_time": 10.7404,
+        "length_ms": 42,
+        "peak": 0.2626
+      },
+      {
+        "file": "12.wav",
+        "source_time": 11.1931,
+        "length_ms": 42,
+        "peak": 0.243
+      },
+      {
+        "file": "13.wav",
+        "source_time": 11.3338,
+        "length_ms": 42,
+        "peak": 0.2774
+      },
+      {
+        "file": "14.wav",
+        "source_time": 11.4884,
+        "length_ms": 42,
+        "peak": 0.2577
+      },
+      {
+        "file": "15.wav",
+        "source_time": 11.6363,
+        "length_ms": 42,
+        "peak": 0.2921
+      },
+      {
+        "file": "16.wav",
+        "source_time": 11.7649,
+        "length_ms": 42,
+        "peak": 0.2725
+      },
+      {
+        "file": "17.wav",
+        "source_time": 11.9201,
+        "length_ms": 42,
+        "peak": 0.2528
+      },
+      {
+        "file": "18.wav",
+        "source_time": 12.0717,
+        "length_ms": 42,
+        "peak": 0.2872
+      },
+      {
+        "file": "19.wav",
+        "source_time": 12.2222,
+        "length_ms": 42,
+        "peak": 0.2675
+      },
+      {
+        "file": "20.wav",
+        "source_time": 12.3719,
+        "length_ms": 42,
+        "peak": 0.2479
+      },
+      {
+        "file": "21.wav",
+        "source_time": 12.522,
+        "length_ms": 42,
+        "peak": 0.2823
+      },
+      {
+        "file": "22.wav",
+        "source_time": 12.6746,
+        "length_ms": 42,
+        "peak": 0.2626
+      },
+      {
+        "file": "23.wav",
+        "source_time": 12.834,
+        "length_ms": 42,
+        "peak": 0.243
+      }
+    ]
+  }
+}

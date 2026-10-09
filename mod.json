@@ -1,0 +1,75 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "supleq.smart-clicks",
+  "name": "Supleq Smart Clicks",
+  "version": "v1.0.0",
+  "developer": "Supleq",
+  "description": "Your recorded up-arrow, fast-spam, and spacebar sounds with random press/release samples and automatic 8 CPS switching.",
+  "resources": {
+    "files": [
+      "resources/*.wav"
+    ]
+  },
+  "settings": {
+    "main-title": {
+      "name": "Supleq Smart Clicks",
+      "type": "title",
+      "description": "Plays your actual recorded key presses/releases in levels. Use Geode to disable the mod at any time."
+    },
+    "enabled": {
+      "type": "bool",
+      "name": "Enable click sounds",
+      "default": true
+    },
+    "up-volume": {
+      "type": "int",
+      "name": "Up Arrow volume (%)",
+      "default": 70,
+      "min": 0,
+      "max": 100,
+      "control": {
+        "slider": true
+      }
+    },
+    "space-volume": {
+      "type": "int",
+      "name": "Spacebar volume (%)",
+      "default": 70,
+      "min": 0,
+      "max": 100,
+      "control": {
+        "slider": true
+      }
+    },
+    "release-volume": {
+      "type": "int",
+      "name": "Release volume (%)",
+      "default": 90,
+      "min": 0,
+      "max": 100,
+      "control": {
+        "slider": true
+      }
+    },
+    "fast-enabled": {
+      "type": "bool",
+      "name": "Use faster samples during spam",
+      "default": true,
+      "description": "When Up Arrow press rate exceeds the threshold, randomly play sounds cut from the fast-spam recording."
+    },
+    "fast-threshold": {
+      "type": "float",
+      "name": "Fast spam threshold (CPS)",
+      "default": 8.0,
+      "min": 4.0,
+      "max": 20.0,
+      "control": {
+        "slider": true
+      },
+      "description": "Switch above this number of Up Arrow presses per second. Spacebar has its own sounds."
+    }
+  }
+}
