@@ -1,0 +1,27 @@
+
+name: Build Supleq Smart Clicks (Windows)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Get source
+        uses: actions/checkout@v4
+
+      - name: Build Geode mod
+        id: geode
+        uses: geode-sdk/build-geode-mod@main
+        with:
+          sdk: latest
+          target: Win64
+
+      - name: Save installable .geode file
+        uses: actions/upload-artifact@v4
+        with:
+          name: Supleq-Smart-Clicks-Windows
+          path: ${{ steps.geode.outputs.build-output }}
